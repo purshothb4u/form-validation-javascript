@@ -1,0 +1,38 @@
+
+#body{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+
+
+#container{
+    background-color: pink;
+    position: absolute;
+    top: 3%;
+    left: 20%;
+    right: 20%;
+    /* bottom: 20%; */
+  height: 72vh;
+  width: 65vw;
+  max-width: 400px;
+  min-width: 360px;
+  max-height: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  box-shadow: -2px -2px 7px black;
+    
+   }
+
+   #information{
+    position: absolute;
+    top: 80%;
+    left: 17%;
+    right: 20%;
+    text-align: center;
+    
+   }
+  
